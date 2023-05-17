@@ -11,3 +11,5 @@ public:
 	void setID();
 	void printAll();
 };
+
+int mahasiswa::nim = 0;
